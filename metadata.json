@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Desa Kemiri",
+  "description": "Portal arsip editorial, transparansi APBDes, potensi UMKM, dan pelayanan publik mandiri Desa Kemiri, Kecamatan Kemiri, Kabupaten Tangerang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
